@@ -35,4 +35,7 @@ public class dortgen {
     public void getYukseklik(double h){
         this.yukseklik=h;
     }
+    public double alanHesapla(){
+        return this.taban*this.yukseklik;
+    }
 }

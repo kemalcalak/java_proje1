@@ -11,7 +11,6 @@ public class App { // main class
 
     public static void mesajYaz() {
         System.out.println("Merhaba");
-
     }
 
     public static int topla(int x, int y) {
